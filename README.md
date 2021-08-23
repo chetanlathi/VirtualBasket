@@ -1,4 +1,4 @@
-# VirtualBasket
+# Hamara Basket
 
 Problem Statement : 
 Welcome to team HamaraBasket.com. We are a small online retail shop,
