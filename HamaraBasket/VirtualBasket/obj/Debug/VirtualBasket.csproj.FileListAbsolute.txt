@@ -1,0 +1,14 @@
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\VirtualBasket.exe.config
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\VirtualBasket.exe
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\VirtualBasket.pdb
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\obj\Debug\VirtualBasket.csproj.CoreCompileInputs.cache
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\obj\Debug\VirtualBasket.exe
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\obj\Debug\VirtualBasket.pdb
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\obj\Debug\VirtualBasket.csprojAssemblyReference.cache
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\Unity.Abstractions.dll
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\Unity.Container.dll
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\Unity.Abstractions.pdb
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\bin\Debug\Unity.Container.pdb
+C:\TFS\VirtualBasket\VirtualBasket\VirtualBasket\obj\Debug\VirtualBasket.csproj.CopyComplete
